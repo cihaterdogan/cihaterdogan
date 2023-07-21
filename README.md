@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cihaterdogan
-- 👀 I’m interested in machine learning algorithms, single-cell data analysis, data analysis, database management systems,  and computer security.
+- 👀 I’m interested in machine learning algorithms, data mining, single-cell data analysis, database management systems,  and computer security.
 - 📫 You can reach me via e-mail: cihaterdogan@gmail.com
 
 <!---
